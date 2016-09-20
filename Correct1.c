@@ -9,3 +9,5 @@ ao();
 return0;
 
 }
+
+#Gunn is the all mighty ruler and will own this repository
