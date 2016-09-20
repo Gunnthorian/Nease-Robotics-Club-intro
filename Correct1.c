@@ -1,10 +1,11 @@
 #include kipr/botball.h
-int main;
+int main(){
 
- motor(50,1):
- motor(50,2):
- msleep(3):
+ motor(50,1);
+ motor(50,2);
+ msleep(3);
  
-ao;
-return;
+ao();
+return0;
 
+}
